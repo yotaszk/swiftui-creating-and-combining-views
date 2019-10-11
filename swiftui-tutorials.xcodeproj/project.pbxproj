@@ -16,6 +16,7 @@
 		49B774962350752C0048833A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49B774942350752C0048833A /* LaunchScreen.storyboard */; };
 		49B774A12350752C0048833A /* swiftui_tutorialsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B774A02350752C0048833A /* swiftui_tutorialsTests.swift */; };
 		49B774AC2350752C0048833A /* swiftui_tutorialsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B774AB2350752C0048833A /* swiftui_tutorialsUITests.swift */; };
+		49B774BA2351439D0048833A /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B774B92351439D0048833A /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		49B774A72350752C0048833A /* swiftui-tutorialsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swiftui-tutorialsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		49B774AB2350752C0048833A /* swiftui_tutorialsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_tutorialsUITests.swift; sourceTree = "<group>"; };
 		49B774AD2350752C0048833A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49B774B92351439D0048833A /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				49B774882350752A0048833A /* SceneDelegate.swift */,
 				49B7748D2350752A0048833A /* ContentView.swift */,
 				49B7748F2350752C0048833A /* Assets.xcassets */,
+				49B774B92351439D0048833A /* CircleImage.swift */,
 				49B774942350752C0048833A /* LaunchScreen.storyboard */,
 				49B774972350752C0048833A /* Info.plist */,
 				49B7748A2350752A0048833A /* swiftui_tutorials.xcdatamodeld */,
@@ -274,6 +277,7 @@
 				49B774892350752A0048833A /* SceneDelegate.swift in Sources */,
 				49B7748E2350752A0048833A /* ContentView.swift in Sources */,
 				49B7748C2350752A0048833A /* swiftui_tutorials.xcdatamodeld in Sources */,
+				49B774BA2351439D0048833A /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
